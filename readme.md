@@ -26,5 +26,5 @@ If you have fun projects related to this then contact me
 
 and low level stuff similar to these
 ___
-![Tux, the Linux mascot](/assets/images/tux.png) <br>
+![Tux, the Linux mascot](https://d33wubrfki0l68.cloudfront.net/e7ed9fe4bafe46e275c807d63591f85f9ab246ba/e2d28/assets/images/tux.png) <br>
 Marvel at it's beauty
