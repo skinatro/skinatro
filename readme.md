@@ -5,11 +5,15 @@
 <li>My Discord is GNU/Mirage#3455</li>
 <li>OS - ArchLinux/ Windows 10 (Dual Boot) and FreeBSD (HomeServer) and DeGoogled LineageOS(Phone)</li>
 </ul>
+
+````
 Laptop Specs - Rx560x
                Ryzen 5 3500h
                16gb 2400mhz DDR4 ram
                500 intel nvme + 500 7200rpm toshiba hard drive
+````
 ___
+
 ## Areas of Internet
 
 If you have fun projects related to this then contact me
