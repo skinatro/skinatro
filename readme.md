@@ -1,7 +1,7 @@
 # About Me
 <ul>
 <li>High Schooler with an interest in hardware and computer science</li>
-<li>Gamer 🤮 Weeb 🤢 FOSStard</li>
+<li>Gamer  Weeb  FOSStard</li>
 <li>My Discord is GNU/Mirage#3455</li>
 <li>OS - ArchLinux/ Windows 10 (Dual Boot) and FreeBSD (HomeServer) and DeGoogled LineageOS(Phone)</li>
 </ul>
