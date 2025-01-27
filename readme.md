@@ -13,7 +13,9 @@ My Interests are mainly
 - SRE and DevOps
 
 ## Contact?
+
 email: 
+
 PGP Fingerprint: 
 
 My alias is `skinatro` on all socials 
